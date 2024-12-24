@@ -1,0 +1,5 @@
+Welcome to Today assignment session
+the classs was awesome Today
+learnt new things in python which was so cool
+file handling
+error handling
